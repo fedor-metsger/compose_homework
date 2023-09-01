@@ -1,0 +1,7 @@
+venv/
+.idea/
+__pycache__/
+netology_stocks_products
+requests-examples.http
+static/
+media/
